@@ -1,0 +1,15 @@
+{
+  "name": "tabbed-simple",
+  "template": {
+    "@type": "Thing",
+    "@list": {
+      "@type": "Article",
+      "name": "Item Group",
+      "description": "Description or Article Content",
+      "@list": {
+        "@type": "Thing",
+        "name": "Item"
+      }
+    }
+  }
+}
